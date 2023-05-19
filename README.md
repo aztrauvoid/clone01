@@ -11,7 +11,7 @@ Daniel aztrau adicionou as sequintes linhas:
 
  3.1 adicionei essa linha no visual code
 
- 3.2 adicionei essa linha no visual code
+ 3.2 adicionei essa linha no visual 
 
 Um novo item 4 quatro 4
 
