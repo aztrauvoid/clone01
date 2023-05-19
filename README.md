@@ -12,8 +12,6 @@ Daniel aztrau adicionou as sequintes linhas:
 
  3.2 adicionei essa linha no visual 
 
- 3.3 adicionei linha 3.3
-
 Um novo item 4 quatro 4
 
 1.Adicionado
