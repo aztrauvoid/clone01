@@ -13,8 +13,11 @@ Daniel aztrau adicionou as sequintes linhas:
 
  3.3 adicionei linha 3.3
 
+<<<<<<< HEAD
 (deletar) 3.4 e mais 3.4
 
+=======
+>>>>>>> noite 21  Update README.md
 Um novo item 4 quatro 4
 
 1.Adicionado
